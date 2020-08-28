@@ -1,5 +1,3 @@
-### Hey World!
+![](https://media.giphy.com/media/k3M5tUaoz65a0/giphy.gif)
 
-I’m currently working on some cool stuff for the **SentinelOne**'s Frontend team, 
- some of it is open source so feel free to ask me about it and let's collaborate! 💬 
 
